@@ -1,0 +1,10 @@
+Z:11
+SN:0
+AC:3
+date:date - 2019.8.9,time - 15.16.12
+UL:86
+ref:79.3
+LL:30
+Loop:1
+Sleep:30
+Num:3

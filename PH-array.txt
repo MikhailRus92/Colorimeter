@@ -1,0 +1,5 @@
+relax_time:600
+UL:8.5
+AV:6.665
+Sleep:3600
+LL:6.2

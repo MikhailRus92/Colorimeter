@@ -1,0 +1,10 @@
+awb_mode:off
+brightness:50
+sharpness:0
+image_effect:none
+exposure_comp:0
+exposure_mode:backlight
+saturation:0
+ISO:800
+contrast:0
+rotation:0
